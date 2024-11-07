@@ -1,18 +1,20 @@
 
 html, body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #d10303; /* Fundo da página */
-    color: #ff2020; /* Texto em branco para contraste */
+    background-color: #faf7f7; /* Fundo da página */
+    color: #43bdf5; /* Texto em branco para contraste */
   }
   
   header {
-    background-color: #ff261f; /* Preto para o cabeçalho */
+    background-color: #5cc2f1; /* Preto para o cabeçalho */
     color: rgb(0, 0, 0); /* Vermelho para o texto do cabeçalho */
   }
   
   main {
-    background-color: #ff5e00c0; /* Fundo principal */
+    background-color: #ffffff; /* Fundo principal */
   }
+
+  
   
   footer {
     background-color: #000000; /* Preto para o rodapé */
