@@ -1,25 +1,32 @@
-
 html, body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #faf7f7; /* Fundo da página */
-    color: #43bdf5; /* Texto em branco para contraste */
-  }
-  
-  header {
-    background-color: #5cc2f1; /* Preto para o cabeçalho */
-    color: rgb(0, 0, 0); /* Vermelho para o texto do cabeçalho */
-  }
-  
-  main {
-    background-color: #ffffff; /* Fundo principal */
-  }
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0; /* Remove a margem padrão */
+  padding: 0; /* Remove o preenchimento padrão */
+}
 
-  
-  
-  footer {
-    background-color: #000000; /* Preto para o rodapé */
-    color: rgb(255, 45, 45); /* Roxo para o texto do rodapé */
-    text-align: center;
-    padding: 10px 0;
-  }
-  
+header {
+  background-color: #008cff; /* Cor preta mais tradicional para o cabeçalho */
+  padding: 20px 0; /* Espaçamento interno (topo e fundo) */
+  text-align: center; /* Centraliza o texto */
+}
+
+main {
+  background-color: #0d4eff; /* Fundo principal azul claro */
+  padding: 20px; /* Espaçamento interno */
+}
+
+footer {
+  background-color: #000000; /* Preto para o rodapé */
+  color: #10f7ff; /* Cinza claro para o texto (menos agressivo que o roxo neon) */
+  text-align: center;
+  padding: 15px 0; /* Mais espaçamento para o rodapé */
+}
+
+footer a {
+  color: #1cd2ff; /* Cor do link no rodapé */
+  text-decoration: none; /* Remove sublinhado de links */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Sublinha o link ao passar o mouse */
+}
