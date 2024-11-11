@@ -22,15 +22,7 @@ footer {
   padding: 15px 0; /* Mais espaçamento para o rodapé */
 }
 
-footer a {
-  color: #1cd2ff; /* Cor do link no rodapé */
-  text-decoration: none; /* Remove sublinhado de links */
-}
-
 footer a:hover {
   text-decoration: underline; /* Sublinha o link ao passar o mouse */
 }
 
-button align-self: color;{
-  color: 
-}
