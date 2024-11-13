@@ -11,6 +11,6 @@ Vitória e Sandyla
 HTML
 css
 ## Etapas implementadas
-[x] Barra de menu
-[x] Carrossel de imagens
+- [x] Barra de menu
+- [x] Carrossel de imagens
 ## Backlog
